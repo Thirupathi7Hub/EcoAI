@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1, "name": "PM-KISAN", "category": "farming", "icon": "🌾",
+    "description": "Pradhan Mantri Kisan Samman Nidhi provides income support to farmer families.",
+    "benefit": "₹6,000/year direct benefit transfer in 3 equal installments",
+    "eligibility": "Small and marginal farmers with landholding up to 2 hectares",
+    "howToApply": "Visit nearest CSC or apply online at pmkisan.gov.in",
+    "documents": ["Aadhaar Card", "Bank Account Details", "Land Records"],
+    "deadline": "Ongoing",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "website": "https://pmkisan.gov.in"
+  },
+  {
+    "id": 2, "name": "PM Fasal Bima Yojana", "category": "farming", "icon": "🛡️",
+    "description": "Provides crop insurance to farmers against natural calamities, pests and diseases.",
+    "benefit": "Insurance at 1.5-2% premium for Rabi, 2% for Kharif crops",
+    "eligibility": "All farmers growing notified crops in notified areas",
+    "howToApply": "Apply through banks, insurance companies, or CSC centers",
+    "documents": ["Land Records", "Bank Account", "Sowing Certificate"],
+    "deadline": "Before crop sowing season",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "website": "https://pmfby.gov.in"
+  },
+  {
+    "id": 3, "name": "Jal Jeevan Mission", "category": "water", "icon": "💧",
+    "description": "Aims to provide safe drinking water through household tap connections to all rural households.",
+    "benefit": "Functional household tap connection with potable water",
+    "eligibility": "All rural households without piped water supply",
+    "howToApply": "Contact Gram Panchayat or district water supply department",
+    "documents": ["Aadhaar Card", "Ration Card", "Property Documents"],
+    "deadline": "Target: 2024 (ongoing)",
+    "ministry": "Ministry of Jal Shakti",
+    "website": "https://jaljeevanmission.gov.in"
+  },
+  {
+    "id": 4, "name": "PM Surya Ghar Muft Bijli Yojana", "category": "energy", "icon": "☀️",
+    "description": "Scheme to install rooftop solar panels and provide free electricity to households.",
+    "benefit": "Up to 300 units free electricity/month + subsidy up to ₹78,000",
+    "eligibility": "Residential electricity consumers in India",
+    "howToApply": "Apply online at pmsuryagarh.gov.in",
+    "documents": ["Aadhaar Card", "Electricity Bill", "Bank Account"],
+    "deadline": "Ongoing",
+    "ministry": "Ministry of New and Renewable Energy",
+    "website": "https://pmsuryagarh.gov.in"
+  },
+  {
+    "id": 5, "name": "MGNREGS", "category": "rural", "icon": "👷",
+    "description": "Mahatma Gandhi National Rural Employment Guarantee Scheme provides guaranteed wage employment.",
+    "benefit": "100 days guaranteed wage employment per year",
+    "eligibility": "Adult members of rural households willing to do unskilled manual work",
+    "howToApply": "Register at Gram Panchayat and get Job Card",
+    "documents": ["Aadhaar Card", "Ration Card", "Passport Photo", "Bank Account"],
+    "deadline": "Ongoing",
+    "ministry": "Ministry of Rural Development",
+    "website": "https://nrega.nic.in"
+  },
+  {
+    "id": 6, "name": "PM Ujjwala Yojana", "category": "energy", "icon": "🔥",
+    "description": "Provides free LPG connections to women from BPL households.",
+    "benefit": "Free LPG connection + ₹1,600 financial assistance",
+    "eligibility": "BPL household women above 18 years without LPG connection",
+    "howToApply": "Visit nearest LPG distributor with required documents",
+    "documents": ["Aadhaar Card", "BPL Ration Card", "Bank Account", "Passport Photo"],
+    "deadline": "Ongoing",
+    "ministry": "Ministry of Petroleum and Natural Gas",
+    "website": "https://pmuy.gov.in"
+  },
+  {
+    "id": 7, "name": "Soil Health Card Scheme", "category": "farming", "icon": "🧪",
+    "description": "Provides farmers with soil health card containing crop-wise recommendations of nutrients and fertilizers.",
+    "benefit": "Free soil testing with nutrient recommendations",
+    "eligibility": "All farmers across India",
+    "howToApply": "Contact local Agriculture Department or Krishi Vigyan Kendra",
+    "documents": ["Land Records", "Aadhaar Card"],
+    "deadline": "Ongoing",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "website": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "id": 8, "name": "Atal Bhujal Yojana", "category": "water", "icon": "🌊",
+    "description": "Aims at sustainable management of groundwater resources with community participation.",
+    "benefit": "Groundwater management support and infrastructure development",
+    "eligibility": "Communities in 7 water-stressed states",
+    "howToApply": "Contact district groundwater department",
+    "documents": ["Village-level participation required"],
+    "deadline": "2025-26",
+    "ministry": "Ministry of Jal Shakti",
+    "website": "https://jalshakti-dowr.gov.in"
+  }
+]
